@@ -67,6 +67,3 @@ Author
 Swetha. B
 Fresher QA Engineer | Trichy
 https://www.linkedin.com/in/swetha-b-912315243/ | Swetha280904@gmail.com
-Swetha
-Fresher QA Engineer | Chennai
-[LinkedIn Profile URL] | [Email]
